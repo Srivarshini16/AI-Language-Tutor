@@ -67,20 +67,3 @@ For more detailed instructions, please refer to our [User Guide](https://github.
 
 We welcome contributions to the AI Language Tutor project! Please read our [Contributing Guidelines](link-to-contributing-guidelines) for details on how to submit pull requests, report issues, and suggest improvements.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](link-to-license-file) file for details.
-
-## Contact and Support
-
-For questions, support, or feedback, please contact us at:
-
-- Email: calilucky3@gmail.com
-- Twitter: [@Alidiamond143](https://x.com/Alidiamond143)
-- GitHub Issues: [Project Issues](https://github.com/alidiamond1/AI-Language-Tutor/issues)
-
-
----
-
-Developed with ❤️ by [Alidiamond](https://github.com/alidiamond1)
-#
